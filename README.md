@@ -3,7 +3,7 @@
 ![Use Case Diagram](https://github.com/dharshinijeya502-bit/Agile-Software-Engineering-Assignment/blob/main/Use%20Case%20Diagram)
 
 ### 2. Sequence Diagram
-![Sequence Diagram](./images/SequenceDiagram.jpg)
+![Sequence Diagram](https://github.com/dharshinijeya502-bit/Agile-Software-Engineering-Assignment/blob/main/Sequence%20Diagram)
 
 ### 3. Class Diagram
 ![Class Diagram](./images/ClassDiagram.jpg)
